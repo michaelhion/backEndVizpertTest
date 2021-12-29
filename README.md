@@ -15,5 +15,5 @@ Utiliza o banco de dados postgresql<br/>
 /bookApi/adicionar - adiciona um json  <br/>
 /bookApi/listarPorId/{id} - retorna um json com um livro específico selecionado pelo id <br/>
 /bookApi/book/{id} - deleta o livro selecionado pelo id <br/>
-/bookApi/book/{id} - deleta o livro selecionado pelo id <br/>
+/bookApi/book/{id} - deleta o livro selecionado pelo id <br/> 
 
