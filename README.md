@@ -9,11 +9,11 @@ Utiliza o banco de dados postgresql<br/>
 - [ ] Tratamento de erros<br/>
 - [ ] Criar imagem com docker compose<br/>
 
-##EndPoints
-/swagger-ui -interface para testes
-/bookApi/listar -retorna um json com a lista de livros persistidos no db
-/bookApi/adicionar - adiciona um json 
-/bookApi/listarPorId/{id} - retorna um json com um livro específico selecionado pelo id
-/bookApi/book/{id} - deleta o livro selecionado pelo id
-/bookApi/book/{id} - deleta o livro selecionado pelo id
+##EndPoints <br/>
+/swagger-ui -interface para testes <br/>
+/bookApi/listar -retorna um json com a lista de livros persistidos no db <br/>
+/bookApi/adicionar - adiciona um json  <br/>
+/bookApi/listarPorId/{id} - retorna um json com um livro específico selecionado pelo id <br/>
+/bookApi/book/{id} - deleta o livro selecionado pelo id <br/>
+/bookApi/book/{id} - deleta o livro selecionado pelo id <br/>
 
